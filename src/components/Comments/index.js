@@ -13,7 +13,7 @@ export default class Comments extends Component {
     scriptEl.setAttribute('src', 'https://utteranc.es/client.js');
     scriptEl.setAttribute('crossorigin', 'anonymous');
     scriptEl.setAttribute('async', true);
-    scriptEl.setAttribute('repo', 'gisabernardess/spacetraveling');
+    scriptEl.setAttribute('repo', 'jcobarreto/spacetraveling');
     scriptEl.setAttribute('issue-term', 'title');
     scriptEl.setAttribute('label', 'blog-comment');
     scriptEl.setAttribute('theme', 'github-dark');
